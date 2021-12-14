@@ -1,0 +1,5 @@
+Sources:
+https://pages.mtu.edu/~suits/misc/tapsizes.html
+https://www.pololu.com/file/0J1487/pololu-micro-metal-gearmotors-rev-4-2.pdf
+https://cad.onshape.com/help/Content/moving.htm
+https://www.onshape.com/en/resource-center/tech-tips/tech-tip-how-to-use-the-measure-tool
