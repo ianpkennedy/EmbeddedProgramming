@@ -1,4 +1,7 @@
 
+PI Control performance graph:
+<img src="24_8_1 .png" width="100"/>
+
 
 Demo of graphical display:
 
