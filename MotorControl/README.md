@@ -4,6 +4,6 @@ Demo of graphical display:
 
 Cubic and Step trajectory performance:
 
-<img src="Step.png" width="100"/>
+<img src="Step.png" width="300"/>
 
-<img src="Cubic.png" width="100"/>
+<img src="Cubic.png" width="300"/>
