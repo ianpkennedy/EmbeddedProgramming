@@ -6,4 +6,4 @@ PI Control performance graph:
 
 Demo of graphical display:
 
-![alt-text](https://github.com/ianpkennedy/EmbeddedProgramming/blob/main/Graphical%20Display%20Programming/Example.gif)
+![alt-text](https://github.com/ianpkennedy/EmbeddedProgramming/blob/main/LED%20Feedback%20Control/Example.gif)
