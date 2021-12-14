@@ -1,3 +1,3 @@
 This is a basic circuit.
 
-![](./IanCircuit.png=100x20)
+![](./IanCircuit.png=400x200)
