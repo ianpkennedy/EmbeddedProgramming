@@ -1,0 +1,53 @@
+Ian Kennedy
+Assignment 6
+Used textbook, office hours, lecture videos for homework 
+
+Chapter 24.1 
+
+
+2. R = 32.5 kOhm was chosen
+
+
+Chapter 24.2
+
+1. We want a period of 50 * 10^(-6) seconds.
+
+Period = 50*10^(-6) = (PR3+1)*N*12.5*10^(-9)
+
+PR3 = 3999
+
+2. Code for this question can be found in c24q2.c
+a. Screenshot attached as 24_2_2_a.png
+b. Screenshot attached as 24_2_2_b.png
+c. Screenshot attached 24_2_2_c.png
+
+The capacitor and resistor together act as a low pass filter that filters out the high frequency noise existed in 24.2.2.c.
+
+24.3
+
+Screen shot attached: 24_3_1.png . X units are 500 ms/div, Y units are 2 V/div
+Code attached in c24q3.c
+
+
+24.5
+
+Plot is attaches 24_5_1.png
+Code is attached as c24q5.c
+
+24.7
+
+Plot is attached as 24_7_1.png
+Code is attached as c24q7.c.
+
+24.8 
+
+Plot is attached as 24_8_1.png
+Code is attached as c24q8.c.
+
+
+
+
+
+
+
+ 
