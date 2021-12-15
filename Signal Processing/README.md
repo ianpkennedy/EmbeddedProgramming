@@ -1,0 +1,1 @@
+Various signal processing exercises used upon sample signal data.
