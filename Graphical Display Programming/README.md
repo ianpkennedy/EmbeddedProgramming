@@ -1,4 +1,6 @@
+## LCD Programming
 
+This project uses SPI communication between a PIC32 microcontroller and an ST7789 LCD display chip to display various messages on the LCD screen.
 
 Demo of graphical display:
 
