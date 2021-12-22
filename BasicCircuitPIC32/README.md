@@ -1,4 +1,6 @@
-This is a basic circuit used to flash an LED:
+## Basic PIC32 Circuit
+
+This is a basic circuit used to flash an LED from a PIC32 microcontroller.
 
 
 <img src="IanCircuit.png" width="100"/>
