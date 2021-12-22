@@ -1,4 +1,6 @@
-Using SPI communication to produce sinusoidal and triangular waves.
+## SPI DAC
+
+Using SPI communication to produce sinusoidal and triangular waves. The primary microcontroller  (PIC32) communicates with a DAC chip over SPI to generate the corresponding signals. 
 
 Demo:
 
