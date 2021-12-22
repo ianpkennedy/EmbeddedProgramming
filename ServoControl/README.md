@@ -1,5 +1,6 @@
-Sinusoidal control of servo motor.
+## Sinusoidal control of servo motor
 
+In this project, a servo motor is programmed to actuate in a sinusoidal manner. The duty cycle of the PWM  square wave is proportional to the angular position of the servo motor.
 
 Demo:
 
